@@ -32,6 +32,6 @@ int main()
         default:
             printf("Invalid Choice");
     }
-
+ printf(“\n25331A05G6\n”);
     return 0;
 }
